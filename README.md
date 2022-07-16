@@ -1,3 +1,3 @@
 # Demo
 
-Sanu Demo Repo
+Sanu Demo Repository
