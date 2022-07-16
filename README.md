@@ -4,4 +4,4 @@ Sanu Demo Repository
 
 ## Sub Header
 
-Test from Mac to Git
+Repo created on Git Hub and Clone (Copy) to Mac Local and made some created index.html file and Push to Git hub again.
